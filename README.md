@@ -1,66 +1,62 @@
-# Hi there, I'm Mila Lestary 👋
+# Mila Lestary
 
-### Full-Stack Developer | Informatics Engineering Student at Politeknik Negeri Jember
+**Full-Stack Developer | Informatics Engineering Student**
 
-Passionate about web development, software engineering, and building digital solutions that create real impact.
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 Informatics Engineering Student at Politeknik Negeri Jember
-- 💻 Full-Stack Developer
-- 🌱 Currently learning Laravel, PHP, MySQL, and Modern Web Development
-- 🚀 Interested in Backend Development, System Design, and Web Applications
-- 📍 Jember, Indonesia
+Building web applications, engineering practical solutions, and transforming ideas into functional digital products.
 
 ---
 
-## 🛠️ Technologies I'm Learning
+## About Me
 
-- Laravel
+I'm a Full-Stack Developer and Informatics Engineering student at **Politeknik Negeri Jember**, Indonesia, with a strong interest in software engineering and web application development. I focus on developing functional, maintainable, and user-oriented applications, particularly in backend engineering, database management, and system design. I enjoy solving technical challenges, exploring new technologies, and building software that addresses real-world needs.
+
+## Technical Stack
+
+**Languages**
 - PHP
-- MySQL
+- Python
 - JavaScript
-- HTML
-- CSS
+- SQL
+
+**Frameworks & Libraries**
+- Laravel
+- Next.js
+- React.js
 - Bootstrap
-- Git & GitHub
+- Tailwind CSS
+
+**Web Technologies**
+- HTML5
+- CSS3
+
+**Databases & Tools**
+- MySQL
+- Git
+- GitHub
+- Visual Studio Code
+
+## Areas of Expertise
+
+- Full-Stack Web Development
+- Backend Development
+- Frontend Development
+- UI/UX Design
+
+## Current Focus
+
+- Developing robust and maintainable web applications
+- Exploring backend architecture and system design
+- Improving software development practices
+- Building practical, real-world projects
+
+## Connect With Me
+
+- **Email:** milalestary05@gmail.com
+- **Instagram:** [@knnyals_](https://instagram.com/knnyals_)
+- **Location:** Jember, Indonesia
 
 ---
 
-## 🎯 Current Goals
-
-- Build a strong GitHub portfolio
-- Develop real-world web applications
-- Improve problem-solving skills
-- Learn modern software development practices
-- Contribute to open-source projects
-
----
-
-## 📚 Currently Working On
-
-- Learning Laravel Framework
-- Exploring Backend Development
-- Building Personal Projects
-- Strengthening Database Design Skills
-
----
-
-## 📈 Journey
-
-I believe that consistency is more important than perfection.
-
-Every repository in this profile represents a step forward in my journey as a developer.
-
----
-
-## 🤝 Connect With Me
-
-- 📸 Instagram: @knnyals_
-- 📧 Email: milalestary05@gmail.com
-
----
-
-⭐ Learning, Building, Growing.
+<p align="center">
+  <i>Designing experiences. Engineering solutions. Creating impact.</i>
+</p>
