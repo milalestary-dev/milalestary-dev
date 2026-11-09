@@ -1,18 +1,18 @@
 # Mila Lestary
 
-**Full-Stack Developer | Informatics Engineering Student**
+**Full-Stack Developer | UI/UX Designer**
 
-Building web applications, engineering practical solutions, and transforming ideas into functional digital products.
+Informatics Engineering Student at Politeknik Negeri Jember, Indonesia.
 
 ---
 
-## About Me
+## About
 
-I'm a Full-Stack Developer and Informatics Engineering student at **Politeknik Negeri Jember**, Indonesia, with a strong interest in software engineering and web application development. I focus on developing functional, maintainable, and user-oriented applications, particularly in backend engineering, database management, and system design. I enjoy solving technical challenges, exploring new technologies, and building software that addresses real-world needs.
+I'm a Full-Stack Developer and Informatics Engineering student at **Politeknik Negeri Jember**, Indonesia, with an interest in software engineering, web application development, and digital product design. My work and interests revolve around building structured, maintainable applications while considering functionality, performance, and user experience. I enjoy working across both the technical and design aspects of software development, from backend architecture and database management to frontend implementation and interface design.
 
 ## Technical Stack
 
-**Languages**
+**Programming Languages**
 - PHP
 - Python
 - JavaScript
@@ -29,34 +29,27 @@ I'm a Full-Stack Developer and Informatics Engineering student at **Politeknik N
 - HTML5
 - CSS3
 
-**Databases & Tools**
+**Databases & Development Tools**
 - MySQL
 - Git
 - GitHub
 - Visual Studio Code
 
-## Areas of Expertise
+## Technical Interests
 
-- Full-Stack Web Development
-- Backend Development
-- Frontend Development
-- UI/UX Design
+My primary interests include full-stack development, backend engineering, frontend development, UI/UX design, database architecture, and software system design. I value clean code, maintainable architecture, thoughtful interface design, and practical approaches to solving engineering problems.
 
-## Current Focus
+## Professional Approach
 
-- Developing robust and maintainable web applications
-- Exploring backend architecture and system design
-- Improving software development practices
-- Building practical, real-world projects
+I approach software development by combining technical problem-solving with user-centered thinking. My goal is to create applications that are functional, maintainable, intuitive, and aligned with their intended purpose.
 
-## Connect With Me
+## Contact
 
-- **Email:** milalestary05@gmail.com
+- **Email:** [milalestary05@gmail.com](mailto:milalestary05@gmail.com)
 - **Instagram:** [@knnyals_](https://instagram.com/knnyals_)
-- **Location:** Jember, Indonesia
 
 ---
 
 <p align="center">
-  <i>Designing experiences. Engineering solutions. Creating impact.</i>
+  <sub>Designing experiences. Engineering solutions. Creating impact.</sub>
 </p>
